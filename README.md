@@ -1,7 +1,23 @@
+
 # Tiktok account info v1
+
 اداة تستتخرج معلومات اضافية لحسابات التيك توك
 
-# البيانات المستخرجة :
+## Authors
+
+- Telegram [@givtt](https://t.me/givtt)
+- Instagram [@we62](https://https://instagram.com/we62)
+
+
+## صورة للأداة
+
+![App Screenshot](https://raw.githubusercontent.com/givtt/tiktok-info/main/test.png?token=GHSAT0AAAAAACMFAKLUQ33WB43BWPXMHMXUZNCRNAQ)
+
+
+## البيانات المستخرجة :
+
+البيانات اللتي تقوم الأداة بأستخراجها:
+
 - استخراج [ User ID ] استخراج الايدي الخاص بالحساب
 - استخراج [ NicName ] استخراج الاسم الخاص بالحساب
 - استخراج [ verified ] التحقق اذا حساب موثق
@@ -18,11 +34,15 @@
 - استخراج [ Last Time Change Nickname ] استتخراج اخر مره تم تغير فيها الاسم ( دقيق جدا )
 - استخراج [ Account Region ] استخراج دولة الحساب
 
-# التثبيت
+
+
+## التثبيت
+
 - الأداة تتدعم جميع الأجهزة ! ( تأكد من تتثبيت بايثون والمكتبات المطلوبة ) :
+- يلزم تثبيت مكتبتين مهمتين :
+
+```bash
+  pip install requests
+  pip install bs4
 ```
-pip install requests
-```
-```
-pip install bs4
-```
+    
