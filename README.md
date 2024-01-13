@@ -11,7 +11,7 @@
 
 ## صورة للأداة
 
-![App Screenshot](https://raw.githubusercontent.com/givtt/tiktok-info/main/test.png?token=GHSAT0AAAAAACMFAKLUQ33WB43BWPXMHMXUZNCRNAQ)
+![test](https://github.com/givtt/tiktok-info/assets/126427636/09ae83af-cdc9-4b30-9ce0-bcd77044554f)
 
 
 ## البيانات المستخرجة :
